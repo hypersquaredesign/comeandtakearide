@@ -1,0 +1,27 @@
+{
+  "name": "comeandtakearide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "esbuild": "^0.17.19",
+    "nanoid": "^3.3.6",
+    "picocolors": "^1.0.0",
+    "postcss": "^8.4.23",
+    "rollup": "^3.21.8",
+    "source-map-js": "^1.0.2",
+    "three": "^0.152.2",
+    "vite": "^4.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "comeandtakearide"
+  },
+  "author": "Mathias Mars",
+  "license": "ISC"
+}
